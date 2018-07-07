@@ -2,4 +2,4 @@
 
 ### Overview
 
-This is a basic HTML/CSS example of a portfolio
+This is a basic HTML/CSS example of a portfolio.
